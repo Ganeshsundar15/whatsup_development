@@ -1,0 +1,34 @@
+intro
+
+exception
+handling
+
+
+
+production  enviorment real time  mean in deveop,testing,
+real time user iccic netbanking 
+its top most enviorment
+that custmor more use it.
+what ever issue come and inpect come real time ,in app
+productin supprt will help,
+help first call ,
+raise call one execute 
+real time customer,
+check vaildate customrer
+first L1 team,doesnt
+L2 similry to L2,
+L3 top most supported team,
+they are help to underr this.
+
+try each(mean) help first
+dont tell to google it .
+initial first try to first and log 
+see what is the problem 
+sigle customer or more 
+
+
+ execption
+oops
+sql
+syntex
+keys

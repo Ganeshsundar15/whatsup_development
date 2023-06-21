@@ -1,0 +1,21 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.row
+{
+margin:0 !important ;
+}
+.col-md-8,.col-md-4
+{
+    padding:initial !important;
+}
+.image-box
+{
+    text-align: center;
+    height: 100%;
+    background-image: url(index.jpg);
+    background-size: cover;
+    background-position: center;
+}

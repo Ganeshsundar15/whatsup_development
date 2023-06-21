@@ -1,0 +1,5 @@
+basic csharp programming -- lex course
+visual studio 2019
+console runn program--- cw double click
+built solution-compail
+then debug program run
